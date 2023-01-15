@@ -29,3 +29,7 @@ console.log(message)
 console.log(firstCard, secondCard)
 console.log(hasBlackJack)
 console.log(isAlive)
+
+function startGame() {
+    
+}
